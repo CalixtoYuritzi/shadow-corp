@@ -1,0 +1,84 @@
+@font-face{
+    font-family: "Exo2-Bold";
+    src: url(../FONT/Exo2-Bold.ttf);
+  }
+
+@font-face{
+    font-family: "Exo2-ExtraLight";
+    src: url(../FONT/Exo2-ExtraLight.ttf);
+  }
+  @font-face{
+    font-family: "Exo2-Regular";
+    src: url(../FONT/Exo2-Regular.ttf);
+  }
+
+  @font-face{
+    font-family: "Exo2-Medium";
+    src: url(../FONT/Exo2-Medium.ttf);
+  }
+
+  @font-face{
+    font-family: "Exo2-Black";
+    src: url(../FONT/Exo2-Black.ttf);
+  }
+
+  @font-face{
+    font-family: "Exo2-ExtraBold";
+    src: url(../FONT/Exo2-ExtraBold.ttf);
+  }
+
+  @font-face{
+    font-family: "Exo2-Thin";
+    src: url(../FONT/Exo2-Thin.ttf);
+  }
+
+  @font-face{
+    font-family: "Exo2-Light";
+    src: url(../FONT/Exo2-Light.ttf);
+  }
+
+
+  
+  .tex1{
+    font-family: "Exo2-Bold";
+  }
+
+  .tex2{
+    font-family: "Exo2-ExtraLight";
+  }
+
+  .tex3{
+    font-family: "Exo2-Regular";
+  }
+
+  .tex4{
+    font-family: "Exo2-Medium";
+  }
+
+  .tex5{
+    font-family: "Exo2-Black";
+  }
+
+  .tex6{
+    font-family: "Exo2-ExtraBold";
+    font-size: 50px;
+  }
+  .tex6-2{
+    font-family: "Exo2-ExtraBold";
+    font-size: 26px;
+  }
+  .tex6-3{
+    font-family: "Exo2-ExtraBold";
+    font-size: 39px;
+
+  }
+  .tex7{
+    font-family: "Exo2-Thin";
+  }
+
+  .tex8{
+    font-family: "Exo2-Light";
+  }
+
+
+

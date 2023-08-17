@@ -1,0 +1,39 @@
+
+/*--------------------------------------------------------------
+# Services
+--------------------------------------------------------------*/
+.services .service-box {
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+    height: 100%;
+    padding: 60px 30px;
+    text-align: center;
+    transition: 0.3s;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+  .services .service-box h3 {
+    color: #DD052A;
+    font-weight: 700;
+  }
+  
+  .services .service-box.color:hover {
+    background: #DD052A;
+  }
+
+  .services .service-box.color {
+    border-bottom: 5px solid #DD052A;
+  }
+
+  .services .service-box.color:hover {
+    background: #07174c;
+    color: #ffffff;
+  }
+
+  video{
+    border-radius: 15px;
+    
+}

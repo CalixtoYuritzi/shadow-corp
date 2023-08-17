@@ -1,0 +1,94 @@
+.con{
+    background: #e3dcff;
+}
+.cen{
+    text-align: center;
+}
+
+.bor{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.t1{
+  font-size:20px;
+}
+.t2{
+    font-size:35px;
+    text-align: center;
+  }
+
+.tarj{
+    width: 300px;
+    margin: 10px;
+    transition: all 300ms;
+}
+
+.tarj:hover{
+    width: 350px;
+}
+
+.tarj .cover{
+    width: 100%;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+}
+
+.tarj .cover img{
+    width: 250px;
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    z-index: 1;
+    filter: drop-shadow(5px 5px 4px rgba(0,0,0,0.5));
+    transition: all 400ms;
+}
+
+.tarj:hover .cover img{
+    top: 0px;
+    filter: none;
+}
+
+.tarj .img__back{
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    bottom: -80px;
+    left: 0;
+    background-size: cover;
+    border-radius: 20px;
+    transition: all 300ms;
+}
+
+.tarj:nth-of-type(1) .img__back{
+    background-image: url("../IMG/fondo3.jpg");
+}
+
+.tarj:hover .img__back{
+    bottom: -40px;
+}
+
+.tarj .description{
+    background: #e3dcff;
+    margin-top: -10px;
+    padding: 20px;
+    border-radius: 0px 0px 20px 20px;
+    transition: all 300ms;
+}
+
+.tarj:hover .description{
+    padding: 40px;
+}
+
+.tarj .description h2{
+    margin-top: 10px;
+}
+
+.tarj .description p{
+    margin-top: 10px;
+}

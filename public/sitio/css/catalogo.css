@@ -1,0 +1,34 @@
+.tl{
+    width: 43%;
+}
+table{
+    width: 100%;
+}
+
+.bon{
+    background: #E3DCFF;
+    border-radius: 3px;
+}
+
+.color1{
+    color:#07174C ;
+}
+a:hover{
+    color: #ed3c0d;
+}
+
+.bon:hover{
+    background: #ed3c0d;
+}
+
+.t2{
+    color: white;
+}
+
+.im{
+    width: 100%;
+}
+
+.tab{
+    width: 45%;
+}

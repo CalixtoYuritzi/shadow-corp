@@ -1,0 +1,24 @@
+.t1{
+    font-size:35px;
+    text-align: center;
+  }
+.card{
+        background: #07174C;
+        transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: rotate(3deg) translateY(-15px);
+    }
+
+h5{
+    color: #ffffff;
+}
+
+.p{
+    color: #E3DCFF;
+}
+
+.cen{
+    text-align: center;
+}
